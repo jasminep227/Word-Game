@@ -1,6 +1,5 @@
 import random
 
-# Boram
 print("""welcome to wordle! you have 6 attempts to guess today's wordle!
 your progress guide is "✔︎✘➕"
 "✔︎" means you have guessed the correct letter at the correct place
